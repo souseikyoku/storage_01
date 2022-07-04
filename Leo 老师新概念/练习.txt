@@ -14,9 +14,22 @@ Korean,Korean.Chinese.Chinese,Chinese.
 Chinese,Chinese,Chinese,Chinese,Chinese.
 Mandarin,Cantonese.
 nationality,nationality,nationality,nationality.
-
-
-
+What nationality are you.
+Where are you from?
+engineer,engineer,engineer.
+nationality.
+What' her job?
+Is she a policewoman or an air hostess?
+She isn't an air hostess.
+She's a policewoman.
+air hostess.air hostess.air hostess.
+hair dresser,mechanic,mechanic,nures,nurse,nurse,truth
+nurse,mechanic,mechanic,postman,air hostess,
+air hostess,mechanic,mechanic,nurs,police,police,
+filght attendant.flight attendant,flight attendant.
+flight attendant.flight attendant.
+nurse,nurse,housewife.nurse,houswife.What's her job?
+mechanic,mechanic,hairdresser,
 
 
 
