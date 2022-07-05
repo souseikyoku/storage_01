@@ -30,6 +30,7 @@ filght attendant.flight attendant,flight attendant.
 flight attendant.flight attendant.
 nurse,nurse,housewife.nurse,houswife.What's her job?
 mechanic,mechanic,hairdresser,
+engineer,engineer,engineer,engineer,nationality,
 
 
 
