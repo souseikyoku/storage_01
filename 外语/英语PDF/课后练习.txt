@@ -1,0 +1,37 @@
+lesson 1
+
+What's your name?
+My name is Ken Baker.
+What's you name?
+My name is Ann Scott.
+What's your name?
+My name is Kathy Baker.
+Wjhat's your name?
+My name is Tom Smith.
+What's your name?
+My name is Sam Scott.
+What's your name?
+My name is Fred Johnson.
+
+This is your book.
+Is this your book?
+This is your
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
