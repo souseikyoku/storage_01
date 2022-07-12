@@ -31,6 +31,11 @@ flight attendant.flight attendant.
 nurse,nurse,housewife.nurse,houswife.What's her job?
 mechanic,mechanic,hairdresser,
 engineer,engineer,engineer,engineer,nationality,
+different,different,different,different,different,different,
+different,different,different,different,different,different,
+different,different,different.same,same,same,same,same,the same,
+It is different.It is different. They are the same.
+
 
 
 
