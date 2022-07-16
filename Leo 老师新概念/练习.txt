@@ -37,6 +37,8 @@ different,different,different.same,same,same,same,same,the same,
 It is different.It is different. They are the same.
 tourist,tourist,tourist,tourist,medicine,medicine,
 headache,stomach ache.
+medium,medium,medium,medium,medium,medium,medium,medium,medium,
+medium.medium,medium,medium,medium,meiudm,medium,medium,medium,
 
 
 
