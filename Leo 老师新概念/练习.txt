@@ -40,8 +40,52 @@ headache,stomach ache.
 medium,medium,medium,medium,medium,medium,medium,medium,medium,
 medium.medium,medium,medium,medium,meiudm,medium,medium,medium,
 
+Lesson 27 homework.
 
+How many bottles are there on the table?
+There are two bottles on the table.
 
+How many desks are there in the living room?
+There are three desks in the living room.
+
+How many books are there on the shelf?
+There are ten books on the shelf.
+
+How many mouses are there on the table?
+There are four mouse on the table.
+
+How many keyboards are there in the picture?
+There are two keyboard in the picture.
+
+How many chairs are there on the floor?
+There are three chairs on the floor.
+
+How many boxes are there in the living room?
+There are two boxes in the living room.
+
+How many electric fans are there in the living room?
+There are two electric fans in the living room.
+
+How many shoes are there near the door?
+There are eight shoes near the door.
+
+How many plats are there in the cupboard?
+There are ten plats in the cupboard.
+
+How many iPhones are there in the box?
+There are four iPhones in the box.
+
+How many boxes are there on the shelf?
+There are two boxes on the shelf.
+
+How many houses are there in the picture?
+There are two houses in the picture.
+
+How many cups are there in the cupboard?
+There are three cups in the cupboard.
+
+How many watches are there on the refrigerator?
+There are two wahches on the refrigerator.
 
 
 
