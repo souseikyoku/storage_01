@@ -1,6 +1,10 @@
 123456789
-
-
+photograph.valley
+Is there a village in the valley?
+village.village,village,village,village,village,
+wife,husband,husband,husband,husband,husband,
+village,bank,bank,bank,village,building,building,building,building,building,
+another,other,
 
 
 

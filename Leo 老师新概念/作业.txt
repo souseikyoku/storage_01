@@ -176,6 +176,7 @@ What is your father doing.
 Is he reading a book?
 Yes,he's reading a book.
 No,he isn't reading a book.
+Who's reading a book?
 
 What is your mother doing?
 Is she cooking a meal?
@@ -223,6 +224,9 @@ What is Ann opening?
 
 <air>
 Open the window and air the room.
+Is the child airing the room?
+No,he isn't.
+Yes,he is.
 
 <put>
 Jimmy is putting the vase on the shelf.
@@ -331,22 +335,123 @@ What is it drinking?
 //-----------------------------------------------
 
 
+Lesson 33 ~ 34 homework
+
+单词混搭造句(5)
+
+The sun is shining in the sky.
+The plane is flying in the sky.
+The plane is flying over the city.
+The ship is going on the river.
+The boat is going under the bridge.
+The Mr.Jones is walking over the brige with his family.
+They are walking across the bridge.
+
+
+//-----------------------------------------------
+
+Lesson 35~36  homework
+
+观察周围 用am/is/are doing + 介词 造句(5)
+
+The children are playing near the school.
+The cat is jumping off the wall.
+The dog is sleeping on the floor.
+The girls are tallking in the park.
+The man is wallking across the grass.
 
 
 
+//-----------------------------------------------
+
+Lesson 37~38 homework
+
+1、观察生活，利用 going to 造句(4句型/5句话)
+肯定，否定，一般疑问，特殊疑问，各5句。
+
+The man is going to eat.
+He isn't going to eat.
+Is he going to eat?
+Who is going to eat?
+
+I'm going to drink water.
+I'm not going to drink water.
+Are you going to drink water?
+What are you going to drink?
+
+The boys are going to play in the garden.
+The boys aren't going to play in the garden.
+Are the boys going to play in the garden?
+Where are the boys going to play?
+
+The girl is going to sleep on the bed.
+The girl isn't going to sleep on the bed.
+Is the girl going to sleep on the bed?
+Where is the girl going to sleep?
+
+Those men are going to swim across the river.
+They are not going to swim across the river.
+Are they going to swim across the river?
+Where are they going to swim?
 
 
+2、分别用现在进行时&一般将来时造句(4句型/5)
+肯定，否定，一般疑问，特殊疑问，各5句。
+
+现在进行时
+My father is watching television.
+He isn't watching television.
+Is he watching television?
+What is he doing?
+
+My mother is cooking a meal.
+She isn't cooking a meal.
+Is she cooking a meal?
+What is she doing?
+
+The boys are playing in the park.
+They aren't playing in the park.
+Are they playing in the park?
+Where are they playing?
+
+Those women are sitting near the tree.
+they aren't sitting near the tree.
+Are they sitting near the tree?
+Where are they sitting?
+
+The child is jumping off the box.
+He isn't jumping off the box.
+Is he jumping off the box?
+What is he jumping off?
+
+一般将来时
+The moman is going to empty the bottle in the kitchen.
+She isn't going to empty the bottle in the kitchen.
+Is she going to empty the bottle in the kitchen?
+Where is she going to empty the bottle?
+
+I'm going to put the clothes in the wardrobe.
+I'm not going to put the clothes in the wardrobe.
+Are you going to put the clothes in the wardrobe?
+What are you going to put in the wardrobe?
+
+The boy is going to turn on the tap.
+He isn't going to turn on the tap.
+Is he going to turn on the tap?
+What is he going to turn on?
+
+My mother is going to clean the table.
+She isn't going to clean the table.
+Is she going to clean the table?
+What is she going to clean?
+
+I'm going to clean my shoes.
+I'm not going to clean my shoes.
+Are you going to clean your shoes?
+What are you going to clean?
 
 
-
-
-
-
-
-
-
-
-
+//-----------------------------------------------
 
 
 
